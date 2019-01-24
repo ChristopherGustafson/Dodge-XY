@@ -54,3 +54,9 @@ local.properties
 .cache-main
 .scala_dependencies
 .worksheet
+
+# Eclipse files
+.classpath
+.project
+_classpath.xml
+_project.xml
